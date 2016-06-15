@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AppCoreLib/AppCoreLib.iml" filepath="$PROJECT_DIR$/../AppCoreLib/AppCoreLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawCircle.iml" filepath="$PROJECT_DIR$/DrawCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FlexLite/FlexLite.iml" filepath="$PROJECT_DIR$/../FlexLite/FlexLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SolidGeometry/SolidGeometry.iml" filepath="$PROJECT_DIR$/../SolidGeometry/SolidGeometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mathFormular/mathFormular.iml" filepath="$PROJECT_DIR$/../mathFormular/mathFormular.iml" />
+    </modules>
+  </component>
+</project>
