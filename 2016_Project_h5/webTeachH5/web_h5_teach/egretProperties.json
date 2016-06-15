@@ -1,0 +1,43 @@
+{
+	"native": {
+		"path_ignore": []
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "3.0.8",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "socket"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "greensock",
+			"path": "../extension/greensock"
+		},
+		{
+			"name": "h5uploader",
+			"path": "../extension/h5uploader"
+		},
+		{
+			"name": "xiaodingCore",
+			"path": "../extension/xiaodingCore"
+		}
+	]
+}

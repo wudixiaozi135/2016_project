@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/web_h5_teach/src/ui/bottomMenus/BottomMenuGroup.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web_h5_teach/BottomMenuGroup.js" />
+      <root url="file://$PROJECT_DIR$/web_h5_teach/src/ui/bottomMenus/BottomMenuGroup.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

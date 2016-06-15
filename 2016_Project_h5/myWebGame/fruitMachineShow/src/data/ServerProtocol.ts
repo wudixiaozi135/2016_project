@@ -1,0 +1,12 @@
+/**
+ * Created by xiaoding on 2016/5/11.
+ */
+enum ServerProtocol
+{
+	SM_HAND_SHAKE_SUCCESS = 9999,
+	SM_PROTOCOL_LOGIN,
+	SM_PROTOCOL_EXIT,
+	SM_START_GAME,
+	SM_SHOW_REWARD,
+	SM_GAIN_REWARD
+}

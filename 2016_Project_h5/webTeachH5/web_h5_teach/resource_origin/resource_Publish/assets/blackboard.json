@@ -1,0 +1,10 @@
+{"file":"blackboard.png","frames":{
+"blackBoard_bottomLeft":{"x":983,"y":147,"w":38,"h":32,"offX":0,"offY":0,"sourceW":38,"sourceH":32},
+"blackBoard_bottomRight":{"x":983,"y":113,"w":39,"h":32,"offX":0,"offY":0,"sourceW":39,"sourceH":32},
+"blackBoard_down":{"x":1,"y":75,"w":923,"h":21,"offX":0,"offY":0,"sourceW":923,"sourceH":21},
+"blackBoard_left":{"x":926,"y":75,"w":27,"h":525,"offX":0,"offY":0,"sourceW":27,"sourceH":525},
+"blackBoard_right":{"x":955,"y":75,"w":26,"h":523,"offX":0,"offY":0,"sourceW":26,"sourceH":523},
+"blackBoard_topLeft":{"x":983,"y":75,"w":37,"h":36,"offX":0,"offY":0,"sourceW":37,"sourceH":36},
+"blackBoard_topRight":{"x":955,"y":600,"w":39,"h":37,"offX":0,"offY":0,"sourceW":39,"sourceH":37},
+"blackBoard_up":{"x":1,"y":48,"w":924,"h":25,"offX":0,"offY":0,"sourceW":924,"sourceH":25},
+"blackBoard_bottom":{"x":1,"y":1,"w":1019,"h":45,"offX":0,"offY":0,"sourceW":1019,"sourceH":45}}}

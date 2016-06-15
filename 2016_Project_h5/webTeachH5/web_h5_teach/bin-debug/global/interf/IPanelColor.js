@@ -1,0 +1,1 @@
+//# sourceMappingURL=IPanelColor.js.map

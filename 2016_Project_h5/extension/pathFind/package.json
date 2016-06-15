@@ -1,0 +1,12 @@
+{
+	"name": "egret",
+	"version": "3.0.5",
+	"modules": [
+		{
+			"name": "pathFind",
+			"description": "pathFind",
+			"files": ["pathfinding.d.ts","PathFinding.js","Pathfinding.min.js"],
+			"root": "src"
+		}
+	]
+}

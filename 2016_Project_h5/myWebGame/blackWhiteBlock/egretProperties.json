@@ -1,0 +1,30 @@
+{
+	"native": {
+		"path_ignore": [],
+		"android_path": "../appBlackWhiteBlock"
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "3.0.5",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "greensock",
+			"path": "../extension/greensock"
+		}
+	]
+}

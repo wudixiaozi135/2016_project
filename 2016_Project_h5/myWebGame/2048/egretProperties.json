@@ -1,0 +1,34 @@
+{
+  "native": {
+	"path_ignore": [],
+	"android_path": "../app2048"
+  },
+  "publish": {
+	"web": 0,
+	"native": 1,
+	"path": "bin-release"
+  },
+  "egret_version": "3.0.6",
+  "modules": [
+	{
+	  "name": "egret"
+	},
+	{
+	  "name": "eui"
+	},
+	{
+	  "name": "res"
+	},
+	{
+	  "name": "game"
+	},
+	{
+	  "name": "greensock",
+	  "path": "../extension/greensock"
+	},
+	{
+	  "name": "xiaodingCore",
+	  "path": "../extension/xiaodingCore"
+	}
+  ]
+}

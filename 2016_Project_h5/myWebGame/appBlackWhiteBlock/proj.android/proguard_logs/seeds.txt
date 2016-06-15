@@ -1,0 +1,147 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+org.egret.android.gameloader.JniShell
+org.egret.android.gameloader.JniShell: java.lang.String encode(java.lang.String)
+org.egret.android.gameloader.JniShell: void setGameUpdateUrl(java.lang.String,java.lang.String)
+org.egret.android.gameloader.JniShell: void nativeOnDownloadGameZipFailed()
+org.egret.android.gameloader.JniShell: void nativeOnDownloadGameZipSuccess()
+org.egret.android.util.JniShell
+org.egret.android.util.JniShell: void listCallback(int,java.lang.String[])
+org.egret.android.util.i$a: org.egret.android.util.i$a[] values()
+org.egret.android.util.i$a: org.egret.android.util.i$a valueOf(java.lang.String)
+org.egret.android.websocket.jni.JniShell
+org.egret.android.websocket.jni.JniShell: void websocket_onopen(int)
+org.egret.android.websocket.jni.JniShell: void websocket_onmessage(int,java.lang.String)
+org.egret.android.websocket.jni.JniShell: void websocket_onmessage(int,byte[])
+org.egret.android.websocket.jni.JniShell: void websocket_onclose(int,int,java.lang.String)
+org.egret.android.websocket.jni.JniShell: void websocket_onerror(int,java.lang.String)
+org.egret.egretframeworknative.EGTJniShell
+org.egret.egretframeworknative.EGTJniShell: void nativeSetEditTextDialogResult(byte[])
+org.egret.egretframeworknative.EGTJniShell: byte[] nativeGetContentText()
+org.egret.egretframeworknative.EGTJniShell: void nativeKeyboardDidShow()
+org.egret.egretframeworknative.EGTJniShell: void nativeKeyboardDidHide()
+org.egret.egretframeworknative.EGTJniShell: void nativeKeyboardFinish()
+org.egret.egretframeworknative.EGTJniShell: void nativeInsertText(byte[])
+org.egret.egretframeworknative.EGTJniShell: void nativeDeleteBackward()
+org.egret.egretframeworknative.EGTZipUtil
+org.egret.egretframeworknative.EGTZipUtil: void nativeNotifyUnzipStep(java.lang.String,java.lang.String)
+org.egret.egretframeworknative.EGTZipUtil: void nativeNotifyUnzipResult(java.lang.String,boolean,boolean)
+org.egret.egretframeworknative.EgretRuntime
+org.egret.egretframeworknative.EgretRuntime: java.lang.String nativeGetRuntimeVersion()
+org.egret.egretframeworknative.GL2JNIView: void setFrameRate(int)
+org.egret.egretframeworknative.MyRenderer
+org.egret.egretframeworknative.MyRenderer: void mainloop()
+org.egret.egretframeworknative.MyRenderer: void nativeStartNewGame(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+org.egret.egretframeworknative.MyRenderer: void nativeStopGame()
+org.egret.egretframeworknative.MyRenderer: void nativeInit(int,int)
+org.egret.egretframeworknative.MyRenderer: void nativeTouchesBegin(int,float,float)
+org.egret.egretframeworknative.MyRenderer: void nativeTouchesEnd(int,float,float)
+org.egret.egretframeworknative.MyRenderer: void nativeTouchesMove(int[],float[],float[])
+org.egret.egretframeworknative.MyRenderer: void nativeTouchesCancel(int[],float[],float[])
+org.egret.egretframeworknative.MyRenderer: void nativeReloadGame()
+org.egret.egretframeworknative.MyRenderer: void nativeOnPause()
+org.egret.egretframeworknative.MyRenderer: void nativeOnResume()
+org.egret.egretframeworknative.egretjni.EGTSound
+org.egret.egretframeworknative.egretjni.EGTSound: void nativePreloadEffectCallBack(java.lang.String,long,int)
+org.egret.egretframeworknative.egretjni.FileTool
+org.egret.egretframeworknative.egretjni.FileTool: void nativeSetAssetManager(android.content.res.AssetManager)
+org.egret.egretframeworknative.egretjni.JniShell
+org.egret.egretframeworknative.egretjni.JniShell: void nativeLoadTextureCallBack(int,boolean,java.lang.String,org.egret.egretframeworknative.egretjni.EGTBitmapWrapper)
+org.egret.egretframeworknative.egretjni.JniShell: void nativeDumpAllTextures()
+org.egret.egretframeworknative.egretjni.JniShell: void nativeUploadAllTextures(int)
+org.egret.egretframeworknative.egretjni.PluginHelper
+org.egret.egretframeworknative.egretjni.PluginHelper: void nativeRecivePluginInfo(java.lang.String)
+org.egret.egretframeworknative.egretjni.e: void setTextMaxLength(int)
+org.egret.egretframeworknative.j$b: org.egret.egretframeworknative.j$b[] values()
+org.egret.egretframeworknative.j$b: org.egret.egretframeworknative.j$b valueOf(java.lang.String)
+org.egret.egretframeworknative.o$a: org.egret.egretframeworknative.o$a[] values()
+org.egret.egretframeworknative.o$a: org.egret.egretframeworknative.o$a valueOf(java.lang.String)
+org.egret.egretframeworknative.plugin.webview.EgretWebView: void setLayout(android.content.Context)
+org.egret.java.appBlackWhiteBlock.R$dimen: int activity_horizontal_margin
+org.egret.java.appBlackWhiteBlock.R$dimen: int activity_vertical_margin
+org.egret.java.appBlackWhiteBlock.R$drawable: int ic_launcher
+org.egret.java.appBlackWhiteBlock.R$id: int action_settings
+org.egret.java.appBlackWhiteBlock.R$layout: int activity_main
+org.egret.java.appBlackWhiteBlock.R$menu: int main
+org.egret.java.appBlackWhiteBlock.R$string: int action_settings
+org.egret.java.appBlackWhiteBlock.R$string: int app_name
+org.egret.java.appBlackWhiteBlock.R$string: int hello_world
+org.egret.java.appBlackWhiteBlock.R$style: int AppBaseTheme
+org.egret.java.appBlackWhiteBlock.R$style: int AppTheme
+org.egret.java.appBlackWhiteBlock.appBlackWhiteBlock
+org.egret.java.appBlackWhiteBlock.appBlackWhiteBlock: appBlackWhiteBlock()
+org.egret.runtime.license.JniShell
+org.egret.runtime.license.JniShell: boolean isLicenseAvailable(java.lang.String,java.lang.String)
+org.egret.runtime.nest.Nest$NEST_MODULE: org.egret.runtime.nest.Nest$NEST_MODULE[] values()
+org.egret.runtime.nest.Nest$NEST_MODULE: org.egret.runtime.nest.Nest$NEST_MODULE valueOf(java.lang.String)
+org.egret.runtime.net.JniShell
+org.egret.runtime.net.JniShell: void responseHeaderCallback(int,java.lang.String)
+org.egret.runtime.net.JniShell: void requestCallback(int,int,java.lang.String)
+org.egret.runtime.net.JniShell: void requestBinaryCallback(int,int,byte[])
+org.egret.runtime.net.JniShell: void progressCallback(int,int,int)
+org.egret.runtime.net.JniShell: void downloadCallback(int,int)
+org.egret.runtime.zip.JniShell
+org.egret.runtime.zip.JniShell: void unzipCallback(int,int,java.lang.String)
+org.egret.runtime.zip.JniShell: void unzipProgressCallback(int,int,int)

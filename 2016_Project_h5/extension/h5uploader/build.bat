@@ -1,0 +1,3 @@
+cd
+egret build
+exit

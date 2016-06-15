@@ -1,0 +1,23 @@
+{
+  "name": "egret",
+  "version": "3.0.6",
+  "modules": [
+	{
+	  "name": "xiaodingCore",
+	  "description": "xiaodingCore",
+	  "files": [
+		"elements/LogView.js",
+		"pattern/INotifer.js",
+		"pattern/IObserver.js",
+		"pattern/Stock.js",
+		"ColorUtils.js",
+		"CommonUtils.js",
+		"GameDispatcher.js",
+		"GameEvent.js",
+		"trace.js",
+		"xiaodingCore.d.ts"
+	  ],
+	  "root": "src"
+	}
+  ]
+}
